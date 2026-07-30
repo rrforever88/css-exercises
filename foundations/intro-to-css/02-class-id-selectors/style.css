@@ -1,5 +1,5 @@
 .odd {
-    background-color: rgb(227, 30, 145);
+    background-color: rgb(230, 120, 148);
     font-family: Verdana, DejaVu Sans, sans-serif;
 }/* Add CSS Styling */
 
@@ -8,6 +8,12 @@
     font-size: 36px;
 }
 
-#element-3 {
+.element-3 {
     font-size: 24px;
+}
+
+#element-4 {
+    background-color: rgb(109, 237, 158);
+    font-size: 24px;
+    font-weight: bold;
 }
